@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JoseEscobarBendezu
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning vue components
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on typescripts frameworks
+- 📫 How to reach me [@JoseEscobarBen](https://twitter.com/JoseEscobarBen)
 
 <!---
 JoseEscobarBendezu/JoseEscobarBendezu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
