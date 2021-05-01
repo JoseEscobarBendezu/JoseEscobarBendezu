@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoseEscobarBendezu
+- 👋 Hi, I’m José Escobar
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning vue components
 - 💞️ I’m looking to collaborate on typescripts frameworks
