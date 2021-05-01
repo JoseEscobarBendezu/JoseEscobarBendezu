@@ -1,5 +1,5 @@
 - 👋 Hi, I’m José Escobar
-- 👀 I’m interested in IA
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning vue components
 - 💞️ I’m looking to collaborate on typescripts frameworks
 - 📫 How to reach me [@JoseEscobarBen](https://twitter.com/JoseEscobarBen)
