@@ -1,8 +1,8 @@
 ### Hello World, I'm José <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![](https://img.shields.io/badge/LinkedIn-JoseEscobar-blue)](https://www.linkedin.com/in/joseescobarben/)
-[![](https://img.shields.io/badge/Twitter-JoseEscobar-blue)](https://t.me/https://twitter.com/JoseEscobarBen)
-[![](https://img.shields.io/badge/CodePen-JoseEscobar-brightgreen)](https://codepen.io/JoseEscobar/)
+[![Twitter Badge](https://img.shields.io/badge/-@JoseEscobar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/JoseEscobarBen) 
+[![Linkedin Badge](https://img.shields.io/badge/-JoseEscobar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseescobarben/)
+[![](https://img.shields.io/badge/CodePen-JoseEscobar-orange)](https://codepen.io/JoseEscobar/)
 <a href="https://github.com/JoseEscobarBendezu">
    <img src="https://komarev.com/ghpvc/?username=JoseEscobarBendezu">
 </a>
