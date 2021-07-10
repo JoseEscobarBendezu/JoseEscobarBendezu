@@ -1,4 +1,4 @@
-### Hello World, I'm José 👋🏼
+### Hello World, I'm José <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 [![](https://img.shields.io/badge/LinkedIn-JoseEscobar-blue)](https://www.linkedin.com/in/joseescobarben/)
 [![](https://img.shields.io/badge/Twitter-JoseEscobar-blue)](https://t.me/https://twitter.com/JoseEscobarBen)
@@ -17,8 +17,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseEscobarBendezu&show_icons=true&theme=gruvbox&count_private=true)" alt="JoseEscobarBendezu :: Stats" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseEscobarBendezu&show_icons=true&theme=gruvbox&count_private=true&hide=contribs,prs)" alt="JoseEscobarBendezu :: Stats" />
 </details>
 
 
