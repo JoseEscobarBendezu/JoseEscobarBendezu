@@ -1,5 +1,4 @@
 [![](https://img.shields.io/badge/LinkedIn-JoseEscobar-blue)](https://www.linkedin.com/in/joseescobarben/)
-[![](https://img.shields.io/badge/Email-joseescobarbendezu%40outlook.com-red)](mailto:joseescobarbendezu@outlook.com)
 [![](https://img.shields.io/badge/Twitter-JoseEscobar-blue)](https://t.me/https://twitter.com/JoseEscobarBen)
 [![](https://img.shields.io/badge/CodePen-JoseEscobar-brightgreen)](https://codepen.io/JoseEscobar/)
 <a href="https://github.com/JoseEscobarBendezu">
