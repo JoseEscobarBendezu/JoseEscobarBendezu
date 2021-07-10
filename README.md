@@ -21,8 +21,11 @@ const aboutMe = {
       },
       databases: ["MongoDB", "PosgreSQL"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   data: [
+         "I’m interested in web development",
+         "I’m currently learning vue components",
+         "I’m looking to collaborate on typescripts frameworks"
+      ]
 };
 ```
 <!---
