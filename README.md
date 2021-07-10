@@ -38,9 +38,8 @@ const aboutMe = {
 <!---
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEscobarBendezu&langs_count=10&theme=tokyonight&layout=compact" alt="JoseEscobarBendezu :: Top Langs" /></p>
 --->
-<!---
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=JoseEscobarBendezu&show_icons=true&theme=gruvbox&hide=["contribs","issues"])](https://github.com/JoseEscobarBendezu)
---->
+
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=JoseEscobarBendezu&show_icons=true&theme=gruvbox&hide=["contribs","issues"]&count_private=true)](https://github.com/JoseEscobarBendezu)
 
 
 <!---
