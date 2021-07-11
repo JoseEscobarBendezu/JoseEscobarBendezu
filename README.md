@@ -31,7 +31,9 @@
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 ![Node](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
+<!---
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+--->
 ![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
