@@ -23,21 +23,26 @@
 
 ### Languages and Tools:
 
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 ![VIM](https://img.shields.io/badge/-Vim-090909?style=for-the-badge&logo=vim)
 ![NVIM](https://img.shields.io/badge/-Nvim-090909?style=for-the-badge&logo=neovim)
+
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)
+
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-Css3-090909?style=for-the-badge&logo=css3&logoColor=097CDB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
+
 ![Node](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
+![Typescript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript)
 <!---
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 --->
 ![Postgresql](https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)
+
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-090909?style=for-the-badge&logo=digitalocean)
 
