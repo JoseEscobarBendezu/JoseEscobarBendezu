@@ -36,6 +36,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=FFFFFF)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-090909?style=for-the-badge&logo=digitalocean)
 
 
 <!---
