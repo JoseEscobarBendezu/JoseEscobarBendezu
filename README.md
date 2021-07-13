@@ -13,12 +13,14 @@
 - 🖥 I’m currently learning vue components
 - 🤘 I’m looking to collaborate on typescripts frameworks
 <br></br>
+<!---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img src="https://github-readme-stats.vercel.app/api?username=JoseEscobarBendezu&show_icons=true&theme=gruvbox&count_private=true&hide=contribs,prs)" alt="JoseEscobarBendezu :: Stats" />
 </details>
+--->
 
 
 ### Languages and Tools:
