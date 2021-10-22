@@ -10,7 +10,7 @@
 # I'm a full stack web javascript Developer !!
 
 
-- 🖥 I’m currently learning vue components
+- 🖥 I’m currently learning micro-frontends
 - 🤘 I’m looking to collaborate on typescripts frameworks
 <br></br>
 <!---
