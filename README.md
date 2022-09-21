@@ -1,26 +1,25 @@
 <h1 align="center">Hello World, I'm José <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  height="20px" alt="hi"></h1>
 
-[![Twitter Badge](https://img.shields.io/badge/-@JoseEscobar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/JoseEscobarBen) 
-[![Linkedin Badge](https://img.shields.io/badge/-JoseEscobar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseescobarben/)
-[![](https://img.shields.io/badge/CodePen-JoseEscobar-orange)](https://codepen.io/JoseEscobar/)
-<a href="https://github.com/JoseEscobarBendezu">
-   <img src="https://komarev.com/ghpvc/?username=JoseEscobarBendezu">
-</a>
-
-# I'm a full stack web javascript Developer !!
-
+<p align="center">
+   <a href="https://twitter.com/JoseEscobarBen">
+      <img src="https://img.shields.io/badge/-@JoseEscobar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis">
+   </a>
+   <a href="https://www.linkedin.com/in/joseescobarben/">
+      <img src="https://img.shields.io/badge/-JoseEscobar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white">
+   </a>
+   <a href="https://codepen.io/JoseEscobar/">
+      <img src="https://img.shields.io/badge/CodePen-JoseEscobar-orange">
+   </a>
+   <a href="https://github.com/JoseEscobarBendezu">
+      <img src="https://komarev.com/ghpvc/?username=JoseEscobarBendezu">
+   </a>
+</p>
 
 - 🖥 I’m currently learning micro-frontends
-- 🤘 I’m looking to collaborate on typescripts frameworks
+- 🤘 I’m looking to collaborate on javascript and typescripts frameworks
+- 🚀 I’m currently development a new arquitecture for webcomponents
 <br></br>
-<!---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseEscobarBendezu&show_icons=true&theme=gruvbox&count_private=true&hide=contribs,prs)" alt="JoseEscobarBendezu :: Stats" />
-</details>
---->
 
 ### Languages and Tools:
 
@@ -79,6 +78,12 @@
 </table>
 
 <!---
+
+[![Twitter Badge](https://img.shields.io/badge/-@JoseEscobar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/JoseEscobarBen) 
+[![Linkedin Badge](https://img.shields.io/badge/-JoseEscobar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseescobarben/)
+[![](https://img.shields.io/badge/CodePen-JoseEscobar-orange)](https://codepen.io/JoseEscobar/)
+
+
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 ![VIM](https://img.shields.io/badge/-Vim-090909?style=for-the-badge&logo=vim)
 ![NVIM](https://img.shields.io/badge/-Nvim-090909?style=for-the-badge&logo=neovim)
@@ -104,6 +109,11 @@
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-090909?style=for-the-badge&logo=digitalocean)
 
 
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseEscobarBendezu&show_icons=true&theme=gruvbox&count_private=true&hide=contribs,prs)" alt="JoseEscobarBendezu :: Stats" />
+</details>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEscobarBendezu&langs_count=10&theme=tokyonight&layout=compact" alt="JoseEscobarBendezu :: Top Langs" /></p>
 --->
