@@ -120,4 +120,4 @@
 
 ## See my projects 👇🏽
 
-[![Mudkip](https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif)](https://pokemondb.net/pokedex/mudkip)
+![Mudkip](https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif)
