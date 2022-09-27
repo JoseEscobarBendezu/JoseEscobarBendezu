@@ -122,3 +122,4 @@
 
 ![Mudkip](https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif)
 ![Arcanine](https://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif)
+![Chikorita](https://img.pokemondb.net/sprites/black-white/anim/normal/chikorita.gif)
