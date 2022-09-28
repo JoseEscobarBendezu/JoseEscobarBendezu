@@ -27,7 +27,7 @@
    <tr>
       <th>Development tools</th>
       <th>Control branchs</th>
-      <th>Web languages</th>
+      <th>Web</th>
    </tr>
       <td align="center">
          <img src="https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=FFFFFF" />
@@ -42,11 +42,10 @@
       <td align="center">
           <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5" />
           <img src="https://img.shields.io/badge/-Css3-090909?style=for-the-badge&logo=css3&logoColor=097CDB" />
-          <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54Db" />
       </td>
    <tr>
       <th>Frontend frameworks</th>
-      <th>Backend languages</th>
+      <th>Backend runtime</th>
       <th>Database</th>
    </tr>
    <tr>
@@ -55,11 +54,28 @@
       </td>
       <td align="center">
          <img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js" />
-         <img src="https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript" />
       </td>
       <td align="center">
          <img src="https://img.shields.io/badge/-Postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
          <img src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb" />
+      </td>
+   </tr>
+   <tr>
+      <th>Backend frameworks</th>
+      <th>Code languages</th>
+      <th>Testing</th>
+   </tr>
+   <tr>
+      <td align="center">
+         <img src="https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express" />
+         <img src="https://img.shields.io/badge/-Nestjs-090909?style=for-the-badge&logo=nestjs&logoColor=F05032" />
+      </td>
+      <td align="center">
+         <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54Db" />
+         <img src="https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript" />
+      </td>
+      <td align="center">
+         <img src="https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=jest" />
       </td>
    </tr>
    <tr>
@@ -68,12 +84,13 @@
       <th></th>
    </tr>
    <tr>
-      <td></td>
+      <td align="center"></td>
       <td align="center">
-         <img src="https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
+         <img src="https://img.shields.io/badge/-Lunacy-090909?style=for-the-badge&logo=lunacy" />
+         <img src="https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma" />
          <img src="https://img.shields.io/badge/-DigitalOcean-090909?style=for-the-badge&logo=digitalocean" />
       </td>
-      <td></td>
+      <td align="center"></td>
    </tr>
 </table>
 
