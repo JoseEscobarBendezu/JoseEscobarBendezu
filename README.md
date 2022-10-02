@@ -140,4 +140,4 @@
 ![Mudkip](https://img.pokemondb.net/sprites/black-white/anim/normal/mudkip.gif)
 ![Arcanine](https://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif)
 ![Chikorita](https://img.pokemondb.net/sprites/black-white/anim/normal/chikorita.gif)
-![Flygon](https://img.pokemondb.net/sprites/black-white/anim/shiny/flygon.gif)
+![Umbreon](https://img.pokemondb.net/sprites/black-white/anim/normal/umbreon.gif)
