@@ -141,3 +141,4 @@
 ![Arcanine](https://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif)
 ![Chikorita](https://img.pokemondb.net/sprites/black-white/anim/normal/chikorita.gif)
 ![Umbreon](https://img.pokemondb.net/sprites/black-white/anim/normal/umbreon.gif)
+![Feraligatr](https://img.pokemondb.net/sprites/black-white/anim/normal/feraligatr.gif)
